@@ -23,3 +23,5 @@ This software comes with absolutely no warranty nor support whatsoever, and it's
 2. Where did you get the data? 
   - All the financial data used by this program are from yahoo finance. 
   - The data quality (accuracy, integrity, latency, etc.) is totally up to [finance.yahoo.com](https://finance.yahoo.com/) and the [yfinance](https://pypi.org/project/yfinance/) tool.
+3. Suggestions? Discussions? 
+  - Create issues in the GitHub project: [Options Lab](https://github.com/fanzhenya/options_lab/blob/main/options_lab.ipynb)
